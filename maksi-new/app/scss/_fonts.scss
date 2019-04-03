@@ -1,0 +1,8 @@
+@import "_mixins/font-face";
+
+@include font-face("NotoSansRegular", "../fonts/NotoSansRegular/NotoSansRegular");
+@include font-face("NotoSansBold", "../fonts/NotoSansBold/NotoSansBold");
+@include font-face("VerdanaRegular", "../fonts/VerdanaRegular/VerdanaRegular");
+@include font-face("VerdanaBold", "../fonts/VerdanaBold/VerdanaBold");
+@include font-face("AFuturaRoundBold", "../fonts/AFuturaRoundBold/AFuturaRoundBold");
+@include font-face("AFuturaRoundDemi", "../fonts/AFuturaRoundDemi/AFuturaRoundDemi");
