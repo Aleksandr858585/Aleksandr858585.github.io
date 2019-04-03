@@ -1,0 +1,31 @@
+
+/*==========  Desktop First  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1280px){
+	#header .logo{
+		order: 1;
+	}
+	.block-main .hold-title h1 {
+	    font: 700 80px/80px 'Cormorant Garamond',sans-serif;
+	    .sub-title{
+			font:700 italic 80px/80px 'Cormorant Garamond', sans-serif;
+		}
+	}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1024px){
+	
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px){
+	
+}
+
+/* Small Devices, Phones */
+@media only screen and (max-width : 540px){
+	
+}
